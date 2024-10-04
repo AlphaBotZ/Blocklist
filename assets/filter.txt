@@ -1,7 +1,7 @@
 !
 ! Title: filter
 ! Description: This filter is for personal use only.
-!
+! Xiao Mi
 ||ad.mi.com^
 ||api.io.mi.com^
 ||ad.xiaomi.com^
@@ -24,3 +24,14 @@
 ||stat.pandora.xiaomi.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||upgrade.mishop.pandora.xiaomi.com^
+
+！ 小说广告
+||ioshost.qtlcdn.com.cdnmg.com.chnc.cloudcsp.com^
+||ioshost.qtlcdn.com.cdnmg.com^
+||webcast-open.douyin.com.queniuyk.com^
+||ipv4-ipv6-phase4.wpt-giant.vip.meituan.com^
+||impdsp.meituan.com^
+||t-remad.qm989.com^
+||e-u1.ubixioe.com^
+||drs-ipv6.wtzw.com^
+||api-sc.wtzw.com^
