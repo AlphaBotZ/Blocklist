@@ -26,12 +26,10 @@
 ||upgrade.mishop.pandora.xiaomi.com^
 
 ！ 小说广告
-||ioshost.qtlcdn.com.cdnmg.com.chnc.cloudcsp.com^
-||ioshost.qtlcdn.com.cdnmg.com^
-||webcast-open.douyin.com.queniuyk.com^
-||ipv4-ipv6-phase4.wpt-giant.vip.meituan.com^
-||impdsp.meituan.com^
-||t-remad.qm989.com^
-||e-u1.ubixioe.com^
-||drs-ipv6.wtzw.com^
-||api-sc.wtzw.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||p1-lm.adkwai.com^
+||xlog.jd.com^
+||dsp-x.jd.com^
+||p1-lm.adkwai.com^
+||open.e.kuaishou.com^
+||open.e.kuaishou.com^
